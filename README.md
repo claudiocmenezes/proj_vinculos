@@ -1,3 +1,3 @@
 # proj_vinculos
 
-Este projeto detalha os procedimentos e metodologias utilizados para detectar informalidade a partir de algoritmos de Machine learning.
+This project details the procedings and metodologies used to detect irregular workers with Machine Learning algorithms.
